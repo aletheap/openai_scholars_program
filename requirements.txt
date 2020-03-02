@@ -6,3 +6,4 @@ wandb
 imgaug
 imageio
 albumentations
+pytorch-lightning
