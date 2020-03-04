@@ -1,5 +1,6 @@
 torch
 torchvision
+torchtext
 matplotlib
 numpy
 wandb
