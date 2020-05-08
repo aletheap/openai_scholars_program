@@ -134,3 +134,6 @@ convb_net/wandb
 
 # MacOS
 .DS_Store
+
+# pytorch
+.data
