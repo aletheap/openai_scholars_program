@@ -6,5 +6,6 @@ numpy
 wandb
 imgaug
 imageio
-albumentations
+#albumentations
+revtok
 pytorch-lightning
