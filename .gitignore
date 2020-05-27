@@ -137,3 +137,12 @@ convb_net/wandb
 
 # pytorch
 .data
+
+#Pytorch Lightning
+lightning_logs
+
+# Jupyter Lab
+jupyter_token
+
+# VSCode
+.vscode
